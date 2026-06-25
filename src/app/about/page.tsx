@@ -39,7 +39,7 @@ export default function AboutPage() {
             <div className="w-12 h-px bg-sand" />
           </div>
           <blockquote className="font-display text-2xl lg:text-3xl font-light text-charcoal leading-relaxed italic">
-            &ldquo;წარსულის კვლევით შთაგონებული, ტექსტილის ხელოვნება.&rdquo;
+            &ldquo;წარსულის კვლევით შთაგონებული ტექსტილის ხელოვნება.&rdquo;
           </blockquote>
           <p className="text-warm-gray text-sm mt-6 font-display">— მაია პატარიძე</p>
         </div>
