@@ -133,6 +133,33 @@
               ],
     "dimensions": "58 × 51 cm",
     "year": "2025"
+    },
+    {
+    "id": "014",
+    "title": "ნატურმორტი",
+    "description": "ნატურმორტი",
+    "status": "sold",
+    "images": [ "/images/image14.jpeg"],
+    "dimensions": "58 × 51 cm",
+    "year": "2025"
+    },
+    {
+    "id": "015",
+    "title": "ნატურმორტი",
+    "description": "ნატურმორტი",
+    "status": "sold",
+    "images": [ "/images/image15.jpeg"],
+    "dimensions": "58 × 51 cm",
+    "year": "2025"
+    },
+        {
+    "id": "016",
+    "title": "კაჭკაჭი სამეფო ოჯახიდან",
+    "description": "კაჭკაჭი სამეფო ოჯახიდან",
+    "status": "sold",
+    "images": [ "/images/image16.jpeg"],
+    "dimensions": "34 × 34 cm",
+    "year": "2025"
     }
 
 ]
