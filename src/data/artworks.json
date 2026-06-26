@@ -4,40 +4,49 @@
     "title": "კაჭკაჭის ღამის ქალაქი",
     "description": "კაჭკაჭის ღამის ქალაქი",
     "status": "available",
-    "images": ["/images/image1.jpeg"],
-    "dimensions": "30 × 40 cm",
-    "year": "2024",
-    "technique": "Hand embroidery on natural linen"
+    "images": ["/images/image1.jpeg",
+              "/images/image1.1jpeg",
+              "/images/image1.2.jpeg",              
+              "/images/image1.3.jpeg",
+              "/images/image1.4.jpeg"
+            ],
+    "dimensions": "66 × 64 cm",
+    "year": "2025"
+  
   },
   {
     "id": "002",
-    "title": "აივანი რაჭაში",
-    "description": "აივანი რაჭაში",
+    "title": "კაჭკაჭის აივანი",
+    "description": "კაჭკაჭის აივანი",
     "status": "available",
-    "images": ["/images/image2.jpeg"],
-    "dimensions": "40 × 50 cm",
-    "year": "2024",
-    "technique": "Mixed textile, silk and wool on linen"
-  },
+    "images": ["/images/image2.jpeg",
+              "/images/image2.1.jpeg",
+              "/images/image2.2.jpeg",
+              "/images/image2.3.jpeg"
+            ],
+    "dimensions": "62 × 64 cm",
+    "year": "2026"
+    },
   {
     "id": "003",
-    "title": "კაჭკაჭი",
-    "description": "კაჭკაჭი",
+    "title": "მთვარის კაჭკაჭი",
+    "description": "მთვარის კაჭკაჭი",
     "status": "available",
     "images": ["/images/image3.jpeg"],
-    "dimensions": "35 × 45 cm",
-    "year": "2023",
-    "technique": "Hand embroidery and fabric collage on linen"
+    "dimensions": "34 × 34 cm",
+    "year": "2023"
   },
   {
     "id": "004",
-    "title": "ხალიჩა",
-    "description": "ხალიჩა",
+    "title": "სააღდგომო კვერცხები",
+    "description": "სააღდგომო კვერცხები",
     "status": "available",
-    "images": ["/images/image4.jpeg"],
-    "dimensions": "25 × 30 cm",
-    "year": "2024",
-    "technique": "Hand embroidery with metallic and silk threads"
+    "images": ["/images/image4.jpeg",
+                "/images/image4.1.jpeg",
+                "/images/image4.2.jpeg"
+              ],
+    "dimensions": "102 × 102 cm",
+    "year": "2026"
   },
   {
     "id": "005",
@@ -46,19 +55,17 @@
     "status": "available",
     "images": ["/images/image5.jpeg"],
     "dimensions": "50 × 60 cm",
-    "year": "2023",
-    "technique": "Hand embroidery on cotton"
-  },
+    "year": "2023"
+    },
   {
     "id": "006",
     "title": "კაჭკაჭის ბახალებიდან",
     "description": "კაჭკაჭის ბახალებიდან",
-    "status": "available",
+    "status": "sold",
     "images": ["/images/image6.jpeg"],
     "dimensions": "40 × 55 cm",
-    "year": "2024",
-    "technique": "Mixed textile and embroidery on linen"
-  },
+    "year": "2024"
+    },
   {
     "id": "007",
     "title": "ყვავილები",
@@ -66,9 +73,8 @@
     "status": "available",
     "images": ["/images/image7.jpeg"],
     "dimensions": "45 × 45 cm",
-    "year": "2023",
-    "technique": "Hand embroidery with gold thread on linen"
-  },
+    "year": "2023"
+    },
   {
     "id": "008",
     "title": "სოფელი",
@@ -76,9 +82,8 @@
     "status": "available",
     "images": ["/images/image8.jpeg"],
     "dimensions": "30 × 50 cm",
-    "year": "2022",
-    "technique": "Hand embroidery on silk"
-  },
+    "year": "2022"
+    },
   {
     "id": "009",
     "title": "ღამის ნატურმორტი",
@@ -86,9 +91,8 @@
     "status": "available",
     "images": ["/images/image9.jpeg"],
     "dimensions": "30 × 40 cm",
-    "year": "2025",
-    "technique": "Hand embroidery on linen"
-  },
+    "year": "2025"
+    },
   {
     "id": "010",
     "title": "ჩაიდანი",
@@ -96,9 +100,8 @@
     "status": "available",
     "images": ["/images/image10.jpeg"],
     "dimensions": "35 × 45 cm",
-    "year": "2025",
-    "technique": "Mixed textile on linen"
-  },
+    "year": "2025"
+    },
   {
     "id": "011",
     "title": "კაჭკაჭის ბახალა და ფუტკარი",
@@ -106,9 +109,8 @@
     "status": "sold",
     "images": ["/images/image11.jpg"],
     "dimensions": "35 × 45 cm",
-    "year": "2025",
-    "technique": "Mixed textile on linen"
-  },
+    "year": "2025"
+    },
     {
     "id": "012",
     "title": "კაჭკაჭის ბახალა",
@@ -116,8 +118,21 @@
     "status": "sold",
     "images": ["/images/image12.png"],
     "dimensions": "35 × 45 cm",
-    "year": "2025",
-    "technique": "Mixed textile on linen"
-  }
+    "year": "2025"
+    },
+    {
+    "id": "01",
+    "title": "ირემი და კაჭკაჭი ღამის ბაღში",
+    "description": "ირემი და კაჭკაჭი ღამის ბაღში",
+    "status": "available",
+    "images": [ "/images/image13.jpeg",
+              "/images/image13.1.jpeg",
+              "/images/image13.2.jpeg",
+              "/images/image13.4.jpeg",
+               "/images/image13.5.jpeg"
+              ],
+    "dimensions": "58 × 51 cm",
+    "year": "2025"
+    }
 
 ]
