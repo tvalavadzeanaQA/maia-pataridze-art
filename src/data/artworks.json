@@ -63,7 +63,7 @@
     "description": "კაჭკაჭის ბახალებიდან",
     "status": "sold",
     "images": ["/images/image6.jpeg"],
-    "dimensions": "40 × 55 cm",
+    "dimensions": "63 × 73 cm",
     "year": "2024"
     },
   {
@@ -72,7 +72,7 @@
     "description": "ყვავილები",
     "status": "available",
     "images": ["/images/image7.jpeg"],
-    "dimensions": "45 × 45 cm",
+    "dimensions": "66 × 73 cm",
     "year": "2023"
     },
   {
@@ -160,6 +160,60 @@
     "images": [ "/images/image16.jpeg"],
     "dimensions": "34 × 34 cm",
     "year": "2025"
+    },
+            {
+    "id": "017",
+    "title": "კაჭკაჭის ბუდე",
+    "description": "კაჭკაჭის ბუდე",
+    "status": "available",
+    "images": [ "/images/image17.jpeg",
+                "/images/image17.1.jpeg",
+                "/images/image17.2.jpeg"
+  ],
+    "dimensions": "90 × 48 cm",
+    "year": "2026"
+    },
+            {
+    "id": "018",
+    "title": "კაჭკაჭები მაგნოლიას ესტუმრნენ",
+    "description": "კაჭკაჭები მაგნოლიას ესტუმრნენ",
+    "status": "available",
+    "images": [ "/images/image18.jpeg"],
+    "dimensions": "70 × 40 cm",
+    "year": "2025"
+    },
+            {
+    "id": "019",
+    "title": "ვარსკვლავების ბაღი და ხატიპეპელა",
+    "description": "ვარსკვლავების ბაღი და ხატიპეპელა",
+    "status": "available",
+    "images": [ "/images/image19.jpeg"],
+    "dimensions": "100 × 80 cm",
+    "year": "2026"
+    },
+               {
+    "id": "020",
+    "title": "კაჭკაჭი მფრინავი ხალიჩით",
+    "description": "ვარსკვლავების ბაღი და ხატიპეპელაკაჭკაჭი მფრინავი ხალიჩით",
+    "status": "available",
+    "images": [ "/images/image20.jpeg",
+                "/images/image20.1.jpeg",
+                "/images/image20.2.jpeg"
+  ],
+    "dimensions": "51 × 75 cm",
+    "year": "2026"
+    },
+                   {
+    "id": "021",
+    "title": "კაჭკაჭი და ზანდუკი",
+    "description": "კაჭკაჭი და ზანდუკი",
+    "status": "available",
+    "images": [ "/images/image21.jpeg",
+                "/images/image21.1.jpeg" ],
+    "dimensions": "85 × 65 cm",
+    "year": "2026"
     }
+
+
 
 ]
