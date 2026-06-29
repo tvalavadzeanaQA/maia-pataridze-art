@@ -212,7 +212,30 @@
                 "/images/image21.1.jpeg" ],
     "dimensions": "85 × 65 cm",
     "year": "2026"
+    },
+                     {
+    "id": "022",
+    "title": "სახლიკო",
+    "description": "სახლიკო",
+    "status": "sold",
+    "images": [ "/images/image22.jpeg"
+                 ],
+    "dimensions": "15 × 14 cm",
+    "year": "2026"
+    },
+    
+     {
+    "id": "023",
+    "title": "აბსტრაქცია",
+    "description": "აბსტრაქცია",
+    "status": "available",
+    "images": [ "/images/image23.jpeg"
+                 ],
+    "dimensions": "45 × 47 cm",
+    "year": "2026"
     }
+    
+    
 
 
 
